@@ -21,7 +21,7 @@ $(function(){
  
 
     $("#button05").on("click",function(){
-        $("#content").text(txt1+(num1num2)+"です");
+        $("#content").text(txt1 + ( num1 * num2 ) + "にく");
        })
  
  })
